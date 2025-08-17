@@ -87,4 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Created with ❤️ by **Lokesh Ragutla**
 
 * **GitHub:** [https://github.com/Lokesh0336](https://github.com/Lokesh0336)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/lokesh-ragutla-a8352724a)
+* **LinkedIn:** [https://www.linkedin.com/in/lokesh-ragutla-a8352724a](https://www.linkedin.com/in/lokesh-ragutla-a8352724a)
