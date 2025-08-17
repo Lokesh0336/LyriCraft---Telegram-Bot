@@ -10,6 +10,14 @@ A Python-based Telegram bot that allows users to search for songs and download t
 * **🤖 Pagination:** Seamlessly browse through search results with "next" and "back" buttons.
 * **✅ Multiple Downloads:** Download individual tracks or a full page of songs at once.
 
+---
+
+## ▶️ Demo
+
+![LyriCraft Bot in action](https://i.ibb.co/3YNx3kDb/Chat-GPT-Image-Jul-26-2025-01-31-57-PM.png)
+
+---
+
 ## 💻 Technologies Used
 
 * **Python:** The core programming language.
@@ -28,7 +36,7 @@ Follow these steps to set up and run the bot locally on your machine.
 
 * Python 3.8+
 * A Telegram Bot Token from [@BotFather](https://t.me/BotFather)
-* Spotify API credentials from the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/)
+* Spotify API credentials from the [Spotify Developer Dashboard](https://developer.spotify.com/)
 
 ### Installation
 
