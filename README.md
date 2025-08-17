@@ -16,7 +16,9 @@ A Python-based Telegram bot that allows users to search for songs and download t
 
 ## 🖼️ Bot Profile
 
-![LyriCraft Bot Profile Picture](https://i.ibb.co/3YNx3kDb/Chat-GPT-Image-Jul-26-2025-01-31-57-PM.png)
+<p align="center">
+  <img src="https://i.ibb.co/3YNx3kDb/Chat-GPT-Image-Jul-26-2025-01-31-57-PM.png" alt="LyriCraft Bot Profile Picture" width="500">
+</p>
 
 ---
 
