@@ -2,6 +2,8 @@
 
 A Python-based Telegram bot that allows users to search for songs and download their audio directly from Spotify. This project showcases my skills in API integration, bot development, and creating a user-friendly application.
 
+---
+
 ## 🚀 Key Features
 
 * **🎧 Song Search:** Instantly search for songs by title or artist.
@@ -12,9 +14,9 @@ A Python-based Telegram bot that allows users to search for songs and download t
 
 ---
 
-## ▶️ Demo
+## 🖼️ Bot Profile
 
-![LyriCraft Bot in action](https://i.ibb.co/3YNx3kDb/Chat-GPT-Image-Jul-26-2025-01-31-57-PM.png)
+![LyriCraft Bot Profile Picture](https://i.ibb.co/3YNx3kDb/Chat-GPT-Image-Jul-26-2025-01-31-57-PM.png)
 
 ---
 
@@ -83,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Created with ❤️ by **Lokesh Ragutla**
 
 * **GitHub:** [https://github.com/Lokesh0336](https://github.com/Lokesh0336)
-* **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/lokesh-ragutla-a8352724a)
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/lokesh-ragutla-a8352724a)
